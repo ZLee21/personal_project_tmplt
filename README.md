@@ -26,6 +26,10 @@ Use this template repo for your personal data projects. Would you please use the
 ---- api_guide.pdf
 ```
 
+## Writing about data science
+
+[Thusan's article on how writing about data science is not easy](https://towardsdatascience.com/lets-admit-it-writing-about-data-science-is-not-easy-37a376777d36) could be helpful as you document your project and skills.
+
 ## Github pages
 
 It would help if you took the time to publish your repo for easier viewing of the files.  Please follow the directions at [Github pages](https://pages.github.com/) to build your pages footprint on the internet.
