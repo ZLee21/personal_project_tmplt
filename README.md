@@ -30,6 +30,16 @@ Use this template repo for your personal data projects. Would you please use the
 
 [Thusan's article on how writing about data science is not easy](https://towardsdatascience.com/lets-admit-it-writing-about-data-science-is-not-easy-37a376777d36) could be helpful as you document your project and skills.
 
+## Data sources
+
+You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during the course. I would make sure that these are presentable in your Github space. You want to demonstrate your creativity. You could use the following links to find a new data set. 
+
+- [FiveThirtyEight](https://github.com/fivethirtyeight/data)
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+- [WorkoutWednesday](http://www.workout-wednesday.com/)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [data.world](https://data.world/search?context=community&entryTypeLabel=dataset&q=free+data&type=all)
+
 ## Github pages
 
 It would help if you took the time to publish your repo for easier viewing of the files.  Please follow the directions at [Github pages](https://pages.github.com/) to build your pages footprint on the internet.
