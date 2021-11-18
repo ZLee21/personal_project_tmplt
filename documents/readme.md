@@ -43,7 +43,8 @@ As expected weighted average incomes came down Pre and Post covid.  Additional r
 
 #Formula 1 Data Analysis
 
-![](personal_project_tmplt/documents/Zack_Lee-Final_Draft-Analytics_Day_Poster_copy.PNG)
+![](documents/Zack_Lee-Final_Draft-Analytics_Day_Poster_copy.PNG)
 
 Testing
+ 
  
