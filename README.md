@@ -53,3 +53,4 @@ Click the link below to view project:
 
 # GDP Capita per Continent ()
 
+Tidyverse and ggplot were used to create a visialization of the relationship between GDP Capita and Life Expectancy per Continent since   
