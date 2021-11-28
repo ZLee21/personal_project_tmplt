@@ -12,7 +12,7 @@ The first two graphs are the weighted average income for 2019 and 2021 by county
 
 Below one can see the top 10 counties by income levels to see clearly how income has shifted over the two years.  Eight of these counties have seen decreases.  We hypothesize this is a result of more highly paid professionals working from home reducing their need for gas fill ups.
 
-![](personal/Zack_Lee/Change_in_income.png)
+![](Change_in_income.png)
 
 Viewing an interactive map will help look at some of the details.
 

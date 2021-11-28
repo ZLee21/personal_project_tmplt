@@ -1,45 +1,50 @@
-# Personal data projects
+# Hackathon, Gas Stations
 
-Use this template repo for your personal data projects. Would you please use the following format for your repository? Please name your repository in your personal space using the following naming structure `[title]-[lastname]-[languagesused]`.  You will then complete a pull request to move your personal data projects into our organization.
+As a team we wanted to look at the profile of gas station customers in Georgia pre and post covid (assumption July 2019 & July 2021 are pre and post covid months). Looking at the following graph we can see that overall income is down year over year for most ages.  Looking at normal income changes this would be strange; however, we are looking only at the customers visiting gas stations. The hypothesis is that remote work popularity would impact what type of customers are buying gas now versus those purchasing gas before covid struck the state of Georgia.
 
-- __Project Purpose:__ Take one to two paragraphs to explain your goals.  Why did you use this data? What skills are you going to demonstrate? Did you do this work for a client? 
-- __Tools used:__ Provide an overview of the programming languages and packages you leveraged for this work.  You could provide links to the pertinent reading material that you leveraged to complete the job. Provide links to your final scripts stored in your repository.
-- __Results:__ This is your conclusion.  Explain why your work matters.  How could others use it?  What are your next steps? Show some key findings.
+![](documents/income_in_year_by_age.png)
 
-## Folder structure
+## Gas Station Customers 2019, 2021, and Evolving Customer Profiles
 
-```
-- readme.md
-- scripts
----- readme.md (short description of each script)
----- data_munge.R
----- data_munge.py
----- eda.R
----- model.py
-- data (less than 100 Mb)
----- readme.md (links to data larger than 100 Mb and data details.)
----- crimes.csv
----- visits.json
-- documents
----- readme.md (notes while doing your project)
----- mlmethod.pdf
----- api_guide.pdf
-```
+The first two graphs are the weighted average income for 2019 and 2021 by county for Georgia gas station customers. The static heatmap is difficult to see if there are changes over the two years. 
 
-## Writing about data science
+![](documents/2019_wam_income_county.png)   ![](documents/2021_wam_income_county.png)
 
-[Thusan's article on how writing about data science is not easy](https://towardsdatascience.com/lets-admit-it-writing-about-data-science-is-not-easy-37a376777d36) could be helpful as you document your project and skills.
+Below one can see the top 10 counties by income levels to see clearly how income has shifted over the two years.  Eight of these counties have seen decreases.  We hypothesize this is a result of more highly paid professionals working from home reducing their need for gas fill ups.
 
-## Data sources
+![](documents/Change_in_income.png)
 
-You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during the course. I would make sure that these are presentable in your Github space. You want to demonstrate your creativity. You could use the following links to find a new data set. 
+Viewing an interactive map will help look at some of the details.
 
-- [FiveThirtyEight](https://github.com/fivethirtyeight/data)
-- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-- [WorkoutWednesday](http://www.workout-wednesday.com/)
-- [Kaggle](https://www.kaggle.com/datasets)
-- [data.world](https://data.world/search?context=community&entryTypeLabel=dataset&q=free+data&type=all)
+[2019 Interactive Map](documents/ga_p3_income19.html)
+[2021 Interactive Map](documents/ga_p3_income21.html)
 
-## Github pages
+The next two graphs are the weighted average age for 2019 and 2021 by county for Georgia gas station customers. Like the income graph this graph is difficult to see if there are changes over the two years. 
 
-It would help if you took the time to publish your repo for easier viewing of the files.  Please follow the directions at [Github pages](https://pages.github.com/) to build your pages footprint on the internet.
+![](documents/2019_wam_age_county.png)   ![](documents/2021_wam_age_county.png)
+
+Viewing the age change details for the top 10 counties by income shows what one would expect.  Most counties have slight increases in weighted average ages; however, Fayette does see a significant drop in average ages.  Additional research will be needed to determine if this is driven by deaths of older persons, higher birth rates, transplants, etc...
+
+![](documents/change_in_age.png)
+
+Viewing the previous interactive map will help look at some of the details on ages as well.
+
+The final two heat maps show the diffence in weighted average income and age between 2019 and 2021 gas station customers.  Around metro Atlanta we see drops in most suburban counties.  The one oddity is one county, Stewart, in western Georgia that saw an increase in weighted average of income in excess of $11k.  
+
+![](documents/diff_income_county.png)   ![](documents/diff_age_county.png)
+
+[2021 - 2019 Difference Interactive Map](documents/ga_p3_diff_income.html)
+
+## Final Thoughts
+
+As expected weighted average incomes came down Pre and Post covid.  Additional research needs to be done to determine which variables had the most impact on this:  work from home changes, job losses, traffic patterns, incoming transplants, outgoing professionals, business closures.
+
+
+
+# Formula 1 Data Analysis
+
+I wanted to find if there was a significance in predicting a drivers final placement in a race given the drivers starting position and what team they drive for. In conclusion, there is a major significance in a what team they drive for and what position they start in.
+
+Click the link below to view project:
+
+![Formula 1 Data Analysis Poster](documents/Zack_Lee-Final_Draft-Analytics_Day_Poster_copy.pdf)
