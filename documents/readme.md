@@ -41,7 +41,11 @@ As expected weighted average incomes came down Pre and Post covid.  Additional r
 
 
 
-#Formula 1 Data Analysis
+# Formula 1 Data Analysis
+
+I wanted to find if there was a significance in predicting a drivers final placement in a race given the drivers starting position and what team they drive for. In conclusion, there is a major significance in a what team they drive for and what position they start in.
+
+Click the link below to view project:
 
 ![Formula 1 Data Analysis Poster](Zack_Lee-Final_Draft-Analytics_Day_Poster_copy.pdf)
 
