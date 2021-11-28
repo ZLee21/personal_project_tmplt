@@ -51,7 +51,7 @@ Click the link below to view project:
 
 
 
-# GDP Capita per Continent (1952 - 2007)
+# GDP Capita and Life Expectancy per Continent (1952 - 2007)
 
 Tidyverse and ggplot were used to create a visialization of the relationship between GDP Capita and Life Expectancy per Continent from 1952 to 2007.
 
