@@ -48,3 +48,8 @@ I wanted to find if there was a significance in predicting a drivers final place
 Click the link below to view project:
 
 ![Formula 1 Data Analysis Poster](documents/Zack_Lee-Final_Draft-Analytics_Day_Poster_copy.pdf)
+
+
+
+# GDP Capita per Continent ()
+
